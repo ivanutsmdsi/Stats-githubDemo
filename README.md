@@ -3,6 +3,7 @@ A repository used to help my stats students learn how to use GitHub
 
 Ivan was here.
 ===
+Hey theres a new version available...
 
 Group 2
 ===
